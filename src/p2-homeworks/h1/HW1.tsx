@@ -6,7 +6,7 @@ const messageData = {
   avatar:
     "https://sun9-74.userapi.com/Ph-WiuOtF985il9AvN9JqiCWedmHtSGSSTXrSA/ltEB2Z2-YO4.jpg",
   name: "Max",
-  message: "hi my name max!",
+  message: "hi my name Max!",
   time: "22:00",
 };
 const alternativeData = {
