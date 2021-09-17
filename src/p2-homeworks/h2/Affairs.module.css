@@ -1,5 +1,5 @@
 .affair {
-  color: white;
+  color: #262626;
   padding: 5px;
 }
 
@@ -9,7 +9,7 @@
 }
 
 .priority {
-  color: #38ff00;
+  color: #29a100;
   padding: 5px;
   margin: 0 auto;
 }
@@ -32,7 +32,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-color: rgba(69, 69, 69, 0.78);
+  /* background-color: rgba(69, 69, 69, 0.78);*/
 }
 
 .all {
