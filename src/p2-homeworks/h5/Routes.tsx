@@ -22,8 +22,7 @@ function Routes() {
         <Route
           path={"/"}
           exact
-          render={() => <Redirect to={PATH.PRE_JUNIOR} />}
-        />
+          render={() => <Redirect to={PATH.PRE_JUNIOR} />}/>
 
 
         <Route path={PATH.PRE_JUNIOR} render={() => <PreJunior />} />
