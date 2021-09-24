@@ -4,7 +4,7 @@ function JuniorPlus() {
   return (
     <div>
       JuniorPlus
-      {/*<HW6/>*/}
+      
     </div>
   );
 }
