@@ -3,8 +3,8 @@ import React, {ChangeEvent, InputHTMLAttributes, DetailedHTMLProps} from 'react'
 type DefaultRadioPropsType = DetailedHTMLProps<InputHTMLAttributes<HTMLInputElement>, HTMLInputElement>
 
 type SuperRadioPropsType = DefaultRadioPropsType & {
-    options: any [];
-    onChangeOption: (option: any) => void;
+    options?: any [];
+    onChangeOption?: (option: any) => void;
 }
 
 const SuperRadio: React.FC<SuperRadioPropsType> = (
